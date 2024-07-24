@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare-docker-proxy",
+  "name": "cloudflare-registry-proxy",
   "private": true,
   "description": "",
   "version": "1.0.0",
