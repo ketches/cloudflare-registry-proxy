@@ -33,3 +33,6 @@ name = "cloudflare-registry-proxy-staging"
 [env.staging.vars]
 MODE = "staging"
 TARGET_UPSTREAM = ""
+
+[placement]
+mode = "smart"
