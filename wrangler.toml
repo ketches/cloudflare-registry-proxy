@@ -36,3 +36,7 @@ TARGET_UPSTREAM = ""
 
 [placement]
 mode = "smart"
+
+[observability]
+enabled = true
+
